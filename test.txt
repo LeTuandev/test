@@ -1,1 +1,5 @@
-Hello!
+<<<<<<< HEAD
+Hello everyone!
+=======
+Hello everyone again!
+>>>>>>> master
